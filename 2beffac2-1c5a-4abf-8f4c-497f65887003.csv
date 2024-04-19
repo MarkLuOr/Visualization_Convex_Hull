@@ -1,0 +1,736 @@
+﻿_id,CODIGO,CAMINO,ETAPA,COORD_X,COORD_Y,TIPO_SENAL
+1,1,Francés,F1 (Francia-Orreaga/Roncesvalles),640771,4775444,Flecha Direccional
+2,2,Francés,F1 (Francia-Orreaga/Roncesvalles),637741,4770519,Mojón
+3,3,Francés,F1 (Francia-Orreaga/Roncesvalles),637976,4769855,Flecha Direccional
+4,4,Francés,F1 (Francia-Orreaga/Roncesvalles),637943,4769205,Mojón
+5,5,Francés,F1 (Francia-Orreaga/Roncesvalles),636842,4767642,Mojón
+6,6,Francés,F1 (Francia-Orreaga/Roncesvalles),636656,4767089,Flecha Direccional
+7,7,Francés,F1 (Francia-Orreaga/Roncesvalles),636206,4766412,Mojón
+8,8,Francés,F1 (Francia-Orreaga/Roncesvalles),636197,4766423,Mojón
+9,9,Francés,F1 (Francia-Orreaga/Roncesvalles),636127,4765909,Mojón
+10,10,Francés,F1 (Francia-Orreaga/Roncesvalles),635860,4765804,Mojón
+11,11,Francés,F1 (Francia-Orreaga/Roncesvalles),635955,4765810,Mojón
+12,12,Francés,F1 (Francia-Orreaga/Roncesvalles),635850,4769802,Mojón
+13,13,Francés,F1 (Francia-Orreaga/Roncesvalles),635804,4765681,Señal Cruce Carretera
+14,14,Francés,F1 (Francia-Orreaga/Roncesvalles),635893,4765567,Mojón
+15,15,Francés,F1 (Francia-Orreaga/Roncesvalles),635881,4765581,Señal Cruce Carretera
+16,16,Francés,F1 (Francia-Orreaga/Roncesvalles),636601,4764752,Mojón
+17,17,Francés,F1 (Francia-Orreaga/Roncesvalles),636680,4764616,Mojón
+18,18,Francés,F1 (Francia-Orreaga/Roncesvalles),636691,4764593,Mojón
+19,19,Francés,F1 (Francia-Orreaga/Roncesvalles),636696,4764566,Mojón
+20,20,Francés,F1 (Francia-Orreaga/Roncesvalles),636174,4766267,Mojón
+21,21,Francés,F1 (Francia-Orreaga/Roncesvalles),633703,4760975,Mojón
+22,22,Francés,F1 (Francia-Orreaga/Roncesvalles),637214,4763973,Mojón
+23,23,Francés,F1 (Francia-Orreaga/Roncesvalles),636160,4766109,Mojón
+24,24,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639585,4766628,Flecha Direccional
+25,25,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638981,4765350,Flecha Direccional
+26,26,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638898,4765371,Mojón
+27,27,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638916,4765416,Mojón
+28,28,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),637525,4763148,Mojón
+29,29,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),637340,4763215,Mojón
+30,30,Francés,F2 (Orreaga/Roncesvalles-Zubiri),637073,4763221,Panel Informativo
+31,31,Francés,F2 (Orreaga/Roncesvalles-Zubiri),636913,4762696,Mojón
+32,32,Francés,F2 (Orreaga/Roncesvalles-Zubiri),636214,4761911,Mojón
+33,33,Francés,F2 (Orreaga/Roncesvalles-Zubiri),636246,4761796,Señal Cruce Carretera
+34,34,Francés,F2 (Orreaga/Roncesvalles-Zubiri),635634,4761091,Mojón
+35,35,Francés,F2 (Orreaga/Roncesvalles-Zubiri),635620,4761092,Mojón
+36,36,Francés,F2 (Orreaga/Roncesvalles-Zubiri),635315,4761197,Flecha Direccional
+37,37,Francés,F2 (Orreaga/Roncesvalles-Zubiri),634179,4761178,Mojón
+38,38,Francés,F2 (Orreaga/Roncesvalles-Zubiri),633744,4761118,Mojón
+39,39,Francés,F2 (Orreaga/Roncesvalles-Zubiri),633613,4760815,Mojón
+40,40,Francés,F2 (Orreaga/Roncesvalles-Zubiri),633565,4760798,Mojón
+41,41,Francés,F2 (Orreaga/Roncesvalles-Zubiri),633172,4760188,Mojón
+42,42,Francés,F2 (Orreaga/Roncesvalles-Zubiri),632547,4759828,Flecha Direccional
+43,43,Francés,F2 (Orreaga/Roncesvalles-Zubiri),632276,4759646,Mojón
+44,44,Francés,F2 (Orreaga/Roncesvalles-Zubiri),632064,4759575,Mojón
+45,45,Francés,F2 (Orreaga/Roncesvalles-Zubiri),631716,4760041,Señal Cruce Carretera
+46,46,Francés,F2 (Orreaga/Roncesvalles-Zubiri),631639,4760062,Mojón
+47,47,Francés,F2 (Orreaga/Roncesvalles-Zubiri),631279,4759895,Mojón
+48,48,Francés,F2 (Orreaga/Roncesvalles-Zubiri),630699,4759782,Mojón
+49,49,Francés,F2 (Orreaga/Roncesvalles-Zubiri),630681,4759657,Mojón
+50,50,Francés,F2 (Orreaga/Roncesvalles-Zubiri),630536,4759505,Mojón
+51,51,Francés,F2 (Orreaga/Roncesvalles-Zubiri),630087,4759007,Mojón
+52,52,Francés,F2 (Orreaga/Roncesvalles-Zubiri),630015,4759023,Mojón
+53,53,Francés,F2 (Orreaga/Roncesvalles-Zubiri),629988,4759056,Mojón
+54,54,Francés,F2 (Orreaga/Roncesvalles-Zubiri),629048,4758633,Mojón
+55,55,Francés,F2 (Orreaga/Roncesvalles-Zubiri),628698,4758602,Mojón
+56,56,Francés,F2 (Orreaga/Roncesvalles-Zubiri),628274,4758418,Señal Cruce Carretera
+57,57,Francés,F2 (Orreaga/Roncesvalles-Zubiri),628208,4758420,Mojón
+58,58,Francés,F2 (Orreaga/Roncesvalles-Zubiri),627102,4757873,Flecha Direccional
+59,59,Francés,F2 (Orreaga/Roncesvalles-Zubiri),627047,4757861,Mojón
+60,60,Francés,F2 (Orreaga/Roncesvalles-Zubiri),626631,4757766,Mojón
+61,61,Francés,F2 (Orreaga/Roncesvalles-Zubiri),626569,4757767,Mojón
+62,62,Francés,F2 (Orreaga/Roncesvalles-Zubiri),626486,4757857,Mojón
+63,63,Francés,F2 (Orreaga/Roncesvalles-Zubiri),626315,4757830,Mojón
+64,64,Francés,F2 (Orreaga/Roncesvalles-Zubiri),626279,4757611,Mojón
+65,65,Francés,F2 (Orreaga/Roncesvalles-Zubiri),626132,4757291,Mojón
+66,66,Francés,F2 (Orreaga/Roncesvalles-Zubiri),626132,4757291,Mojón
+67,67,Francés,F2 (Orreaga/Roncesvalles-Zubiri),625719,4757056,Mojón
+68,68,Francés,F2 (Orreaga/Roncesvalles-Zubiri),625130,4756329,Mojón
+69,69,Francés,F2 (Orreaga/Roncesvalles-Zubiri),625086,4756124,Mojón
+70,70,Francés,F2 (Orreaga/Roncesvalles-Zubiri),624900,4755723,Señal Cruce Carretera
+71,71,Francés,F2 (Orreaga/Roncesvalles-Zubiri),624877,4755645,Mojón
+72,72,Francés,F2 (Orreaga/Roncesvalles-Zubiri),624856,4755590,Flecha Direccional
+73,73,Francés,F2 (Orreaga/Roncesvalles-Zubiri),624342,4755196,Mojón
+74,74,Francés,F2 (Orreaga/Roncesvalles-Zubiri),623882,4755307,Mojón
+75,75,Francés,F2 (Orreaga/Roncesvalles-Zubiri),623520,4755435,Mojón
+76,76,Francés,F2 (Orreaga/Roncesvalles-Zubiri),622668,4754519,Mojón
+77,77,Francés,F2 (Orreaga/Roncesvalles-Zubiri),622126,4753645,Mojón
+78,78,Francés,F2 (Orreaga/Roncesvalles-Zubiri),622047,4753621,Señal Cruce Carretera
+79,79,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621987,4753588,Mojón
+80,80,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621758,4753175,Mojón
+81,81,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621716,4753106,Señal Cruce Carretera
+82,82,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621410,4752680,Mojón
+83,83,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621401,4752651,Mojón
+84,84,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621733,4753153,Mojón
+85,85,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621361,4752638,Mojón
+86,86,Francés,F2 (Orreaga/Roncesvalles-Zubiri),621245,4752514,Mojón
+87,87,Francés,F2 (Orreaga/Roncesvalles-Zubiri),620641,4751990,Mojón
+88,88,Francés,F2 (Orreaga/Roncesvalles-Zubiri),620495,4751832,Mojón
+89,89,Francés,F2 (Orreaga/Roncesvalles-Zubiri),619903,4751650,Señal Cruce Carretera
+90,90,Francés,F2 (Orreaga/Roncesvalles-Zubiri),619859,4751611,Mojón
+91,91,Francés,F2 (Orreaga/Roncesvalles-Zubiri),619839,4751586,Señal Cruce Carretera
+92,92,Francés,F2 (Orreaga/Roncesvalles-Zubiri),636202,4761995,Mojón
+93,93,Francés,F3 (Zubiri-Pamplona/Iruña),618997,4750551,Mojón
+94,94,Francés,F3 (Zubiri-Pamplona/Iruña),618537,4750380,Señal Cruce Carretera
+95,95,Francés,F3 (Zubiri-Pamplona/Iruña),618516,4750329,Mojón
+96,96,Francés,F3 (Zubiri-Pamplona/Iruña),618486,4750304,Señal Cruce Carretera
+97,97,Francés,F3 (Zubiri-Pamplona/Iruña),617556,4749460,Mojón
+98,98,Francés,F3 (Zubiri-Pamplona/Iruña),617265,4748528,Señal Cruce Carretera
+99,99,Francés,F3 (Zubiri-Pamplona/Iruña),617258,4748533,Flecha Direccional
+100,100,Francés,F3 (Zubiri-Pamplona/Iruña),616957,4747974,Mojón
+101,101,Francés,F3 (Zubiri-Pamplona/Iruña),616973,4747727,Mojón
+102,102,Francés,F3 (Zubiri-Pamplona/Iruña),616966,4747619,Señal Cruce Carretera
+103,103,Francés,F3 (Zubiri-Pamplona/Iruña),616992,4747544,Mojón
+104,104,Francés,F3 (Zubiri-Pamplona/Iruña),617005,4747422,Mojón
+105,105,Francés,F3 (Zubiri-Pamplona/Iruña),616930,4747056,Mojón
+106,106,Francés,F3 (Zubiri-Pamplona/Iruña),616547,4746463,Mojón
+107,107,Francés,F3 (Zubiri-Pamplona/Iruña),615922,4745764,Señal Cruce Carretera
+108,108,Francés,F3 (Zubiri-Pamplona/Iruña),616216,4745867,Flecha Direccional
+109,109,Francés,F3 (Zubiri-Pamplona/Iruña),615813,4745641,Mojón
+110,110,Francés,F3 (Zubiri-Pamplona/Iruña),615717,4745572,Mojón
+111,111,Francés,F3 (Zubiri-Pamplona/Iruña),615671,4745541,Mojón
+112,112,Francés,F3 (Zubiri-Pamplona/Iruña),615622,4745459,Mojón
+113,113,Francés,F3 (Zubiri-Pamplona/Iruña),615155,4744189,Mojón
+114,114,Francés,F3 (Zubiri-Pamplona/Iruña),635910,4765549,Señal Cruce Carretera
+115,115,Aragonés,A3 (Monreal-Puente la Reina/Gares),619245,4729922,Mojón
+116,116,Aragonés,A3 (Monreal-Puente la Reina/Gares),618891,4730025,Flecha Direccional
+117,117,Aragonés,A3 (Monreal-Puente la Reina/Gares),618601,4730097,Otros
+118,118,Aragonés,A3 (Monreal-Puente la Reina/Gares),617981,4730113,Mojón
+119,119,Aragonés,A3 (Monreal-Puente la Reina/Gares),617438,4730066,Mojón
+120,120,Aragonés,A3 (Monreal-Puente la Reina/Gares),615933,4730111,Mojón
+121,121,Aragonés,A3 (Monreal-Puente la Reina/Gares),615808,4729993,Mojón
+122,122,Aragonés,A3 (Monreal-Puente la Reina/Gares),615749,4730051,Mojón
+123,123,Aragonés,A3 (Monreal-Puente la Reina/Gares),615525,4729865,Mojón
+124,124,Aragonés,A3 (Monreal-Puente la Reina/Gares),614714,4729265,Mojón
+125,125,Aragonés,A3 (Monreal-Puente la Reina/Gares),614554,4729354,Otros
+126,126,Aragonés,A3 (Monreal-Puente la Reina/Gares),614495,4729247,Flecha Direccional
+127,127,Aragonés,A3 (Monreal-Puente la Reina/Gares),614188,4729164,Mojón
+128,128,Aragonés,A3 (Monreal-Puente la Reina/Gares),613239,4728824,Mojón
+129,129,Aragonés,A3 (Monreal-Puente la Reina/Gares),612559,4728312,Mojón
+130,130,Aragonés,A3 (Monreal-Puente la Reina/Gares),612475,4728261,Mojón
+131,131,Aragonés,A3 (Monreal-Puente la Reina/Gares),612509,4728247,Mojón
+132,132,Aragonés,A3 (Monreal-Puente la Reina/Gares),612286,4728215,Mojón
+133,133,Aragonés,A3 (Monreal-Puente la Reina/Gares),611936,4728322,Mojón
+134,134,Aragonés,A3 (Monreal-Puente la Reina/Gares),611825,4728302,Señal Cruce Carretera
+135,135,Aragonés,A3 (Monreal-Puente la Reina/Gares),611729,4728249,Mojón
+136,136,Aragonés,A3 (Monreal-Puente la Reina/Gares),611705,4728203,Señal Cruce Carretera
+137,137,Aragonés,A3 (Monreal-Puente la Reina/Gares),611350,4727655,Mojón
+138,138,Aragonés,A3 (Monreal-Puente la Reina/Gares),611348,4727590,Señal Cruce Carretera
+139,139,Aragonés,A3 (Monreal-Puente la Reina/Gares),611308,4727535,Mojón
+140,140,Aragonés,A3 (Monreal-Puente la Reina/Gares),611260,4727507,Señal Cruce Carretera
+141,141,Aragonés,A3 (Monreal-Puente la Reina/Gares),611148,4727384,Flecha Direccional
+142,142,Aragonés,A3 (Monreal-Puente la Reina/Gares),610596,4726848,Mojón
+143,143,Aragonés,A3 (Monreal-Puente la Reina/Gares),610190,4726055,Mojón
+144,144,Aragonés,A3 (Monreal-Puente la Reina/Gares),610191,4725685,Señal Cruce Carretera
+145,145,Aragonés,A3 (Monreal-Puente la Reina/Gares),610176,4725610,Mojón
+146,146,Aragonés,A3 (Monreal-Puente la Reina/Gares),610094,4725647,Otros
+147,147,Aragonés,A3 (Monreal-Puente la Reina/Gares),609976,4725672,Mojón
+148,148,Aragonés,A3 (Monreal-Puente la Reina/Gares),609949,4725676,Mojón
+149,149,Aragonés,A3 (Monreal-Puente la Reina/Gares),609877,4725690,Mojón
+150,150,Aragonés,A3 (Monreal-Puente la Reina/Gares),609844,4725651,Señal Cruce Carretera
+151,151,Aragonés,A3 (Monreal-Puente la Reina/Gares),609580,4725044,Mojón
+152,152,Aragonés,A3 (Monreal-Puente la Reina/Gares),609573,4724944,Otros
+153,153,Aragonés,A3 (Monreal-Puente la Reina/Gares),609547,4724922,Otros
+154,154,Aragonés,A3 (Monreal-Puente la Reina/Gares),609509,4724938,Mojón
+155,155,Aragonés,A3 (Monreal-Puente la Reina/Gares),609480,4724958,Mojón
+156,156,Aragonés,A3 (Monreal-Puente la Reina/Gares),609398,4724881,Flecha Direccional
+157,157,Aragonés,A3 (Monreal-Puente la Reina/Gares),609172,4724887,Mojón
+158,158,Aragonés,A3 (Monreal-Puente la Reina/Gares),608129,4724898,Mojón
+159,159,Aragonés,A3 (Monreal-Puente la Reina/Gares),607818,4725045,Mojón
+160,160,Aragonés,A3 (Monreal-Puente la Reina/Gares),606681,4724932,Mojón
+161,161,Aragonés,A3 (Monreal-Puente la Reina/Gares),606401,4724597,Mojón
+162,162,Aragonés,A3 (Monreal-Puente la Reina/Gares),606132,4724638,Señal Cruce Carretera
+163,163,Aragonés,A3 (Monreal-Puente la Reina/Gares),606090,4724645,Flecha Direccional
+164,164,Aragonés,A3 (Monreal-Puente la Reina/Gares),606053,4724702,Señal Cruce Carretera
+165,165,Aragonés,A3 (Monreal-Puente la Reina/Gares),605580,4725021,Mojón
+166,166,Aragonés,A3 (Monreal-Puente la Reina/Gares),605124,4725098,Mojón
+167,167,Aragonés,A3 (Monreal-Puente la Reina/Gares),603734,4725196,Mojón
+168,168,Aragonés,A3 (Monreal-Puente la Reina/Gares),603254,4725193,Mojón
+169,169,Aragonés,A3 (Monreal-Puente la Reina/Gares),602083,4725128,Mojón
+170,170,Aragonés,A3 (Monreal-Puente la Reina/Gares),602043,4725150,Mojón
+171,171,Aragonés,A3 (Monreal-Puente la Reina/Gares),602049,4725152,Mojón
+172,172,Aragonés,A3 (Monreal-Puente la Reina/Gares),601495,4725394,Flecha Direccional
+173,173,Aragonés,A3 (Monreal-Puente la Reina/Gares),601316,4725397,Mojón
+174,174,Aragonés,A3 (Monreal-Puente la Reina/Gares),600764,4725764,Señal Cruce Carretera
+175,175,Aragonés,A3 (Monreal-Puente la Reina/Gares),600753,4725824,Mojón
+176,176,Aragonés,A3 (Monreal-Puente la Reina/Gares),600722,4726012,Mojón
+177,177,Aragonés,A3 (Monreal-Puente la Reina/Gares),600121,4726148,Señal Cruce Carretera
+178,178,Aragonés,A3 (Monreal-Puente la Reina/Gares),600089,4726160,Mojón
+179,179,Aragonés,A3 (Monreal-Puente la Reina/Gares),600034,4726198,Señal Cruce Carretera
+180,180,Aragonés,A3 (Monreal-Puente la Reina/Gares),599321,4725871,Señal Cruce Carretera
+181,181,Aragonés,A3 (Monreal-Puente la Reina/Gares),622166,4729518,Panel informativo
+182,182,Aragonés,A3 (Monreal-Puente la Reina/Gares),599217,4725830,Mojón
+183,183,Aragonés,A3 (Monreal-Puente la Reina/Gares),599109,4725749,Señal Cruce Carretera
+184,184,Aragonés,A3 (Monreal-Puente la Reina/Gares),598373,4725487,Mojón
+185,185,Aragonés,A3 (Monreal-Puente la Reina/Gares),598016,4725358,Mojón
+186,186,Aragonés,A3 (Monreal-Puente la Reina/Gares),597832,4725267,Mojón
+187,187,Aragonés,A3 (Monreal-Puente la Reina/Gares),597738,4725377,Mojón
+188,188,Aragonés,A3 (Monreal-Puente la Reina/Gares),597626,4725348,Mojón
+189,189,Francés,F3 (Zubiri-Pamplona/Iruña),615169,4744093,Mojón
+190,190,Francés,F3 (Zubiri-Pamplona/Iruña),614938,4744042,Mojón
+191,191,Francés,F3 (Zubiri-Pamplona/Iruña),612735,4742335,Mojón
+192,192,Francés,F3 (Zubiri-Pamplona/Iruña),612488,4742220,Otros
+193,193,Francés,F3 (Zubiri-Pamplona/Iruña),612333,4742159,Otros
+194,194,Francés,F3 (Zubiri-Pamplona/Iruña),612100,4742078,Otros
+195,195,Francés,F3 (Zubiri-Pamplona/Iruña),611750,4742110,Mojón
+196,196,Francés,F3 (Zubiri-Pamplona/Iruña),611713,4742098,Otros
+197,197,Francés,F3 (Zubiri-Pamplona/Iruña),611493,4742013,Mojón
+198,198,Francés,F3 (Zubiri-Pamplona/Iruña),611470,4742057,Flecha Direccional
+199,199,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),608619,4738978,Mojón
+200,200,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),608083,4737935,Mojón
+201,201,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),607865,4737649,Mojón
+202,202,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),607589,4737422,Mojón
+203,203,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),607284,4737219,Flecha Direccional
+204,204,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606936,4736622,Señal Cruce Carretera
+205,205,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606915,4736611,Mojón
+206,206,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606859,4736553,Señal Cruce Carretera
+207,207,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606781,4736507,Mojón
+208,208,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606727,4736462,Señal Cruce Carretera
+209,209,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606365,4736081,Mojón
+210,210,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606128,4735839,Mojón
+211,211,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),605889,4735730,Mojón
+212,212,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),605655,4735517,Mojón
+213,213,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),605631,4735483,Flecha Direccional
+214,214,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),605539,4735382,Mojón
+215,215,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),605227,4734781,Mojón
+216,216,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),604941,4734282,Mojón
+217,217,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),604592,4733766,Mojón
+218,218,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),604336,4733287,Mojón
+219,219,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),604209,4733171,Mojón
+220,220,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),603063,4732470,Señal Cruce Carretera
+221,221,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),603015,4732412,Señal Cruce Carretera
+222,222,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),602982,4732387,Mojón
+223,223,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),602506,4732084,Mojón
+224,224,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),602505,4731893,Mojón
+225,225,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),602536,4731688,Mojón
+226,226,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),602463,4731016,Mojón
+227,227,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),602184,4730659,Mojón
+228,228,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),602156,4730533,Mojón
+229,229,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),601994,4730144,Mojón
+230,230,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),601699,4729043,Mojón
+231,231,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),601440,4728497,Mojón
+232,232,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),600668,4727101,Flecha Direccional
+233,233,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),600295,4726720,Mojón
+234,234,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),600206,4726640,Otros
+235,235,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),598563,4725931,Señal Cruce Carretera
+236,236,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),598431,4725874,Mojón
+237,237,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),598413,4725852,Señal Cruce Carretera
+238,238,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),598289,4725863,Mojón
+239,239,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),607408,4737233,Mojón
+240,240,Aragonés,A1 (Huesca-Sangüesa/Zangoza),647545,4715178,Otros
+241,241,Aragonés,A1 (Huesca-Sangüesa/Zangoza),647423,4714980,Mojón
+242,242,Aragonés,A1 (Huesca-Sangüesa/Zangoza),647132,4714721,Mojón
+243,243,Aragonés,A1 (Huesca-Sangüesa/Zangoza),646647,4714622,Mojón
+244,244,Aragonés,A1 (Huesca-Sangüesa/Zangoza),645675,4714320,Mojón
+245,245,Aragonés,A1 (Huesca-Sangüesa/Zangoza),645193,4714306,Flecha Direccional
+246,246,Aragonés,A1 (Huesca-Sangüesa/Zangoza),643713,4714403,Mojón
+247,247,Aragonés,A1 (Huesca-Sangüesa/Zangoza),643511,4714470,Mojón
+248,248,Aragonés,A1 (Huesca-Sangüesa/Zangoza),643391,4714457,Mojón
+249,249,Aragonés,A1 (Huesca-Sangüesa/Zangoza),643179,4714315,Mojón
+250,250,Aragonés,A1 (Huesca-Sangüesa/Zangoza),643103,4714346,Mojón
+251,251,Aragonés,A1 (Huesca-Sangüesa/Zangoza),642460,4714609,Mojón
+252,252,Aragonés,A1 (Huesca-Sangüesa/Zangoza),642204,4714659,Mojón
+253,253,Aragonés,A1 (Huesca-Sangüesa/Zangoza),642013,4714720,Mojón
+254,254,Aragonés,A1 (Huesca-Sangüesa/Zangoza),641842,4714713,Mojón
+255,255,Aragonés,A1 (Huesca-Sangüesa/Zangoza),641780,4714749,Mojón
+256,256,Aragonés,A1 (Huesca-Sangüesa/Zangoza),641297,4714828,Señal Cruce Carretera
+257,257,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640752,4715891,Otros
+258,258,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640793,4716104,Mojón
+259,259,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640673,4716311,Mojón
+260,260,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640614,4716942,Mojón
+261,261,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640669,4717066,Mojón
+262,262,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640531,4717190,Mojón
+263,263,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640280,4717163,Mojón
+264,264,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640164,4717445,Mojón
+265,265,Aragonés,A2 (Sangüesa/Zangoza-Monreal),639976,4717393,Mojón
+266,266,Aragonés,A2 (Sangüesa/Zangoza-Monreal),639406,4717477,Mojón
+267,267,Aragonés,A2 (Sangüesa/Zangoza-Monreal),638913,4717789,Flecha Direccional
+268,268,Aragonés,A2 (Sangüesa/Zangoza-Monreal),638579,4717963,Mojón
+269,269,Aragonés,A2 (Sangüesa/Zangoza-Monreal),638355,4718203,Mojón
+270,270,Aragonés,A2 (Sangüesa/Zangoza-Monreal),637724,4718598,Mojón
+271,271,Aragonés,A2 (Sangüesa/Zangoza-Monreal),637580,4718677,Mojón
+272,272,Aragonés,A2 (Sangüesa/Zangoza-Monreal),637386,4718770,Mojón
+273,273,Aragonés,A2 (Sangüesa/Zangoza-Monreal),636592,4719257,Mojón
+274,274,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635831,4719747,Mojón
+275,275,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635840,4719702,Mojón
+276,276,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635717,4719831,Mojón
+277,277,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635577,4720000,Flecha Direccional
+278,278,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635418,4720253,Mojón
+279,279,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635395,4720434,Mojón
+280,280,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635346,4720473,Mojón
+281,281,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635341,4720552,Mojón
+282,282,Aragonés,A2 (Sangüesa/Zangoza-Monreal),635191,4720970,Mojón
+283,283,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634933,4721173,Mojón
+284,284,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634788,4721426,Mojón
+285,285,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634672,4721508,Mojón
+286,286,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634583,4721644,Mojón
+287,287,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634521,4721865,Mojón
+288,288,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634088,4722667,Mojón
+289,289,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634048,4722747,Mojón
+290,290,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634151,4722893,Mojón
+291,291,Aragonés,A2 (Sangüesa/Zangoza-Monreal),634131,4722883,Mojón
+292,292,Aragonés,A2 (Sangüesa/Zangoza-Monreal),632613,4723381,Mojón
+293,293,Aragonés,A2 (Sangüesa/Zangoza-Monreal),632237,4723448,Mojón
+294,294,Aragonés,A2 (Sangüesa/Zangoza-Monreal),631447,4723491,Mojón
+295,295,Aragonés,A2 (Sangüesa/Zangoza-Monreal),632237,4723448,Mojón
+296,296,Aragonés,A2 (Sangüesa/Zangoza-Monreal),630581,4723691,Flecha Direccional
+297,297,Aragonés,A2 (Sangüesa/Zangoza-Monreal),629793,4723993,Mojón
+298,298,Aragonés,A2 (Sangüesa/Zangoza-Monreal),629064,4724105,Mojón
+299,299,Aragonés,A2 (Sangüesa/Zangoza-Monreal),629038,4724126,Otros
+300,300,Aragonés,A2 (Sangüesa/Zangoza-Monreal),624112,4727661,Mojón
+301,301,Aragonés,A2 (Sangüesa/Zangoza-Monreal),624052,4727872,Mojón
+302,302,Aragonés,A2 (Sangüesa/Zangoza-Monreal),623791,4728049,Mojón
+303,303,Aragonés,A2 (Sangüesa/Zangoza-Monreal),623008,4728570,Mojón
+304,304,Aragonés,A2 (Sangüesa/Zangoza-Monreal),622609,4728868,Mojón
+305,305,Aragonés,A2 (Sangüesa/Zangoza-Monreal),622627,4728923,Mojón
+306,306,Aragonés,A2 (Sangüesa/Zangoza-Monreal),622441,4728935,Otros
+307,307,Aragonés,A2 (Sangüesa/Zangoza-Monreal),628755,4724221,Mojón
+308,308,Aragonés,A2 (Sangüesa/Zangoza-Monreal),628571,4724290,Mojón
+309,309,Aragonés,A2 (Sangüesa/Zangoza-Monreal),628459,4724334,Mojón
+310,310,Aragonés,A2 (Sangüesa/Zangoza-Monreal),627976,4724510,Mojón
+311,311,Aragonés,A2 (Sangüesa/Zangoza-Monreal),626490,4725045,Flecha Direccional
+312,312,Aragonés,A2 (Sangüesa/Zangoza-Monreal),626348,4725056,Mojón
+313,313,Aragonés,A2 (Sangüesa/Zangoza-Monreal),625484,4725993,Mojón
+314,314,Aragonés,A2 (Sangüesa/Zangoza-Monreal),625113,4726264,Mojón
+315,315,Aragonés,A2 (Sangüesa/Zangoza-Monreal),624596,4726796,Mojón
+316,316,Aragonés,A2 (Sangüesa/Zangoza-Monreal),624116,4727568,Mojón
+317,317,Aragonés,A3 (Monreal-Puente la Reina/Gares),622134,4729523,Mojón
+318,318,Aragonés,A3 (Monreal-Puente la Reina/Gares),622154,4729521,Mojón
+319,319,Aragonés,A3 (Monreal-Puente la Reina/Gares),621332,4729884,Mojón
+320,320,Aragonés,A3 (Monreal-Puente la Reina/Gares),620770,4730334,Mojón
+321,321,Aragonés,A3 (Monreal-Puente la Reina/Gares),620582,4730098,Mojón
+322,322,Aragonés,A3 (Monreal-Puente la Reina/Gares),619637,4729934,Mojón
+323,323,Aragonés,A3 (Monreal-Puente la Reina/Gares),619235,4729931,Mojón
+324,324,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),596206,4724683,Mojón
+325,325,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),595377,4724369,Mojón
+326,326,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),595169,4724309,Mojón
+327,327,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587066,4725798,Mojón
+328,328,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587048,4725762,Mojón
+329,329,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),586901,4725546,Mojón
+330,330,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),586736,4725430,Mojón
+331,331,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),586108,4724888,Mojón
+332,332,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),586101,4724867,Flecha Direccional
+333,333,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),585756,4724704,Mojón
+334,334,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),585517,4724624,Mojón
+335,335,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),585256,4724503,Mojón
+336,336,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),585274,4724449,Mojón
+337,337,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),585159,4724362,Mojón
+338,338,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),584464,4724222,Mojón
+339,339,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),584057,4724184,Mojón
+340,340,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581216,4724690,Mojón
+341,341,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581025,4724773,Mojón
+342,342,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),580754,4724734,Mojón
+343,343,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),580306,4724777,Pinturas
+344,344,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581378,4723731,Mojón
+345,345,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581354,4723774,Otros
+346,346,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581337,4723793,Mojón
+347,347,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581314,4723820,Mojón
+348,348,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581254,4723836,Mojón
+349,349,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581108,4723954,Mojón
+350,350,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),580326,4724136,Mojón
+351,351,Francés,F6 (Estella/Lizarra-Los Arcos),578140,4722197,Flecha Direccional
+352,352,Francés,F6 (Estella/Lizarra-Los Arcos),578618,4722889,Mojón
+353,353,Francés,F6 (Estella/Lizarra-Los Arcos),578419,4722599,Mojón
+354,354,Francés,F6 (Estella/Lizarra-Los Arcos),571181,4716975,Mojón
+355,355,Francés,F6 (Estella/Lizarra-Los Arcos),570187,4716569,Mojón
+356,356,Francés,F6 (Estella/Lizarra-Los Arcos),569726,4716560,Flecha Direccional
+357,357,Francés,F6 (Estella/Lizarra-Los Arcos),569307,4716532,Mojón
+358,358,Francés,F6 (Estella/Lizarra-Los Arcos),569290,4716178,Mojón
+359,359,Francés,F6 (Estella/Lizarra-Los Arcos),578270,4722977,Mojón
+360,360,Francés,F6 (Estella/Lizarra-Los Arcos),578113,4722887,Mojón
+361,361,Francés,F6 (Estella/Lizarra-Los Arcos),578081,4722873,Mojón
+362,362,Francés,F6 (Estella/Lizarra-Los Arcos),577136,4722087,Mojón
+363,363,Francés,F6 (Estella/Lizarra-Los Arcos),577076,4722059,Mojón
+364,364,Francés,F6 (Estella/Lizarra-Los Arcos),576958,4722012,Otros
+365,365,Francés,F6 (Estella/Lizarra-Los Arcos),576753,4721874,Mojón
+366,366,Francés,F6 (Estella/Lizarra-Los Arcos),576421,4721679,Mojón
+367,367,Francés,F6 (Estella/Lizarra-Los Arcos),576206,4721617,Mojón
+368,368,Francés,F6 (Estella/Lizarra-Los Arcos),576168,4721590,Señal Cruce Carretera
+369,369,Francés,F6 (Estella/Lizarra-Los Arcos),576085,4721551,Mojón
+370,370,Francés,F6 (Estella/Lizarra-Los Arcos),576108,4721521,Otros
+371,371,Francés,F6 (Estella/Lizarra-Los Arcos),576118,4721439,Mojón
+372,372,Francés,F6 (Estella/Lizarra-Los Arcos),575653,4721234,Mojón
+373,373,Francés,F6 (Estella/Lizarra-Los Arcos),575575,4721222,Mojón
+374,374,Francés,F6 (Estella/Lizarra-Los Arcos),575432,4721232,Mojón
+375,375,Francés,F6 (Estella/Lizarra-Los Arcos),575216,4721309,Mojón
+376,376,Francés,F6 (Estella/Lizarra-Los Arcos),574766,4720836,Flecha Direccional
+377,377,Francés,F6 (Estella/Lizarra-Los Arcos),574465,4720636,Mojón
+378,378,Francés,F6 (Estella/Lizarra-Los Arcos),574260,4720536,Mojón
+379,379,Francés,F6 (Estella/Lizarra-Los Arcos),574093,4720564,Mojón
+380,380,Francés,F6 (Estella/Lizarra-Los Arcos),573582,4720070,Mojón
+381,381,Francés,F6 (Estella/Lizarra-Los Arcos),573686,4719715,Mojón
+382,382,Francés,F6 (Estella/Lizarra-Los Arcos),573556,4719168,Mojón
+383,383,Francés,F6 (Estella/Lizarra-Los Arcos),572811,4718593,Mojón
+384,384,Francés,F6 (Estella/Lizarra-Los Arcos),572790,4718259,Mojón
+385,385,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581997,4722695,Mojón
+386,386,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581859,4722569,Otros
+387,387,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581737,4722485,Mojón
+388,388,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581590,4722385,Otros
+389,389,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581566,4722331,Mojón
+390,390,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581411,4722194,Mojón
+391,391,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581499,4722031,Mojón
+392,392,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581487,4721985,Mojón
+393,393,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581451,4722009,Mojón
+394,394,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581104,4722091,Mojón
+395,395,Zaraputz,F6 (Estella/Lizarra-Los Arcos),581029,4722058,Mojón
+396,396,Zaraputz,F6 (Estella/Lizarra-Los Arcos),580550,4721911,Mojón
+397,397,Zaraputz,F6 (Estella/Lizarra-Los Arcos),580465,4721788,Mojón
+398,398,Zaraputz,F6 (Estella/Lizarra-Los Arcos),580377,4721696,Mojón
+399,399,Zaraputz,F6 (Estella/Lizarra-Los Arcos),580302,4721655,Mojón
+400,400,Zaraputz,F6 (Estella/Lizarra-Los Arcos),580039,4721663,Mojón
+401,401,Zaraputz,F6 (Estella/Lizarra-Los Arcos),579843,4721619,Mojón
+402,402,Zaraputz,F6 (Estella/Lizarra-Los Arcos),579814,4721723,Mojón
+403,403,Zaraputz,F6 (Estella/Lizarra-Los Arcos),579725,4721751,Mojón
+404,404,Zaraputz,F6 (Estella/Lizarra-Los Arcos),579296,4722003,Mojón
+405,405,Zaraputz,F6 (Estella/Lizarra-Los Arcos),579264,4721946,Mojón
+406,406,Zaraputz,F6 (Estella/Lizarra-Los Arcos),579149,4722008,Mojón
+407,407,Zaraputz,F6 (Estella/Lizarra-Los Arcos),579137,4722003,Mojón
+408,408,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578966,4722004,Flecha Direccional
+409,409,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578931,4721997,Mojón
+410,410,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578907,4721999,Mojón
+411,411,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578777,4722002,Mojón
+412,412,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578631,4721995,Mojón
+413,413,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578634,4721994,Mojón
+414,414,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578247,4721892,Flecha Direccional
+415,415,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578245,4721903,Mojón
+416,416,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578130,4722085,Mojón
+417,417,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578169,4721840,Mojón
+418,418,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578083,4721790,Mojón
+419,419,Zaraputz,F6 (Estella/Lizarra-Los Arcos),577774,4721579,Mojón
+420,420,Zaraputz,F6 (Estella/Lizarra-Los Arcos),577745,4721542,Mojón
+421,421,Zaraputz,F6 (Estella/Lizarra-Los Arcos),577593,4721470,Mojón
+422,422,Zaraputz,F6 (Estella/Lizarra-Los Arcos),577484,4721344,Mojón
+423,423,Zaraputz,F6 (Estella/Lizarra-Los Arcos),577246,4721188,Mojón
+424,424,Zaraputz,F6 (Estella/Lizarra-Los Arcos),577085,4721145,Mojón
+425,425,Zaraputz,F6 (Estella/Lizarra-Los Arcos),577022,4721119,Mojón
+426,426,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576938,4721081,Mojón
+427,427,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576738,4720970,Mojón
+428,428,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576689,4720929,Mojón
+429,429,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576631,4720902,Mojón
+430,430,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576553,4720839,Mojón
+431,431,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576474,4720806,Mojón
+432,432,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576189,4720705,Mojón
+433,433,Zaraputz,F6 (Estella/Lizarra-Los Arcos),576074,4720650,Mojón
+434,434,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575979,4720630,Mojón
+435,435,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575590,4720332,Mojón
+436,436,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575464,4720113,Mojón
+437,437,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575402,4719992,Mojón
+438,438,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575256,4719550,Mojón
+439,439,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575219,4719418,Mojón
+440,440,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575155,4719361,Mojón
+441,441,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575031,4719288,Mojón
+442,442,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),593854,4724779,Mojón
+443,443,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),595046,4724185,Flecha Direccional
+444,444,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),594977,4724140,Mojón
+445,445,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),594721,4724085,Mojón
+446,446,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),592690,4724943,Mojón
+447,447,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),592547,4725007,Mojón
+448,448,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),592225,4725102,Mojón
+449,449,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),591818,4725196,Mojón
+450,450,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),590579,4725826,Otros
+451,451,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),590507,4725777,Mojón
+452,452,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),590483,4725875,Flecha Direccional
+453,453,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),590294,4725832,Mojón
+454,454,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),590160,4725846,Mojón
+455,455,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),589872,4725897,Mojón
+456,456,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),589622,4725994,Mojón
+457,457,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),589441,4725983,Mojón
+458,458,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),589038,4726027,Mojón
+459,459,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),588646,4725954,Mojón
+460,460,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),588446,4725969,Mojón
+461,461,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),588063,4726087,Mojón
+462,462,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587883,4726026,Otros
+463,463,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587845,4725961,Mojón
+464,464,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587809,4725956,Señal Cruce Carretera
+465,465,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587578,4726047,Señal Cruce Carretera
+466,466,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587269,4726192,Mojón
+467,467,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),587064,4726817,Mojón
+468,468,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),582221,4723784,Flecha Direccional
+469,469,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),582181,4723800,Señal Cruce Carretera
+470,470,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581785,4723908,Mojón
+471,471,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581691,4723890,Mojón
+472,472,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581453,4723886,Mojón
+473,473,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),582150,4723959,Mojón
+474,474,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),582152,4723994,Mojón
+475,475,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581928,4724359,Mojón
+476,476,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581711,4724351,Mojón
+477,477,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581702,4724376,Mojón
+478,478,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),581450,4724655,Mojón
+479,479,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),593616,4724882,Mojón
+480,480,Francés,F6 (Estella/Lizarra-Los Arcos),572462,4717492,Flecha Direccional
+481,481,Francés,F6 (Estella/Lizarra-Los Arcos),571389,4716997,Mojón
+482,482,Francés,F6 (Estella/Lizarra-Los Arcos),568186,4716252,Mojón
+483,483,Francés,F6 (Estella/Lizarra-Los Arcos),567642,4716132,Mojón
+484,484,Francés,F6 (Estella/Lizarra-Los Arcos),567576,4716042,Mojón
+485,485,Francés,F6 (Estella/Lizarra-Los Arcos),567270,4715572,Mojón
+486,486,Francés,F6 (Estella/Lizarra-Los Arcos),567175,4715233,Mojón
+487,487,Zaraputz,F6 (Estella/Lizarra-Los Arcos),582469,4723448,Mojón
+488,488,Zaraputz,F6 (Estella/Lizarra-Los Arcos),582306,4723254,Mojón
+489,489,Zaraputz,F6 (Estella/Lizarra-Los Arcos),582246,4723047,Mojón
+490,490,Zaraputz,F6 (Estella/Lizarra-Los Arcos),575011,4718899,Mojón
+491,491,Zaraputz,F6 (Estella/Lizarra-Los Arcos),574821,4718704,Mojón
+492,492,Zaraputz,F6 (Estella/Lizarra-Los Arcos),574147,4718370,Señal Cruce Carretera
+493,493,Zaraputz,F6 (Estella/Lizarra-Los Arcos),573795,4718170,Señal Cruce Carretera
+494,494,Zaraputz,F6 (Estella/Lizarra-Los Arcos),573487,4717992,Mojón
+495,495,Zaraputz,F6 (Estella/Lizarra-Los Arcos),573465,4717983,Flecha Direccional
+496,496,Zaraputz,F6 (Estella/Lizarra-Los Arcos),573213,4717870,Señal Cruce Carretera
+497,497,Zaraputz,F6 (Estella/Lizarra-Los Arcos),573097,4717780,Mojón
+498,498,Zaraputz,F6 (Estella/Lizarra-Los Arcos),573074,4717782,Señal Cruce Carretera
+499,499,Zaraputz,F6 (Estella/Lizarra-Los Arcos),572911,4717772,Mojón
+500,500,Zaraputz,F6 (Estella/Lizarra-Los Arcos),572746,4717606,Mojón
+501,501,Zaraputz,F6 (Estella/Lizarra-Los Arcos),572590,4717386,Otros
+502,502,Francés,F7 (Los Arcos-Logroño),565537,4713211,Mojón
+503,503,Francés,F7 (Los Arcos-Logroño),565272,4713172,Mojón
+504,504,Francés,F7 (Los Arcos-Logroño),562842,4712769,Mojón
+505,505,Francés,F7 (Los Arcos-Logroño),562731,4712838,Mojón
+506,506,Francés,F7 (Los Arcos-Logroño),561694,4712922,Mojón
+507,507,Francés,F7 (Los Arcos-Logroño),561062,4712755,Mojón
+508,508,Francés,F7 (Los Arcos-Logroño),560323,4711528,Flecha Direccional
+509,509,Francés,F7 (Los Arcos-Logroño),560314,4711565,Mojón
+510,510,Francés,F7 (Los Arcos-Logroño),560315,4711506,Señal Cruce Carretera
+511,511,Francés,F7 (Los Arcos-Logroño),560136,4711359,Mojón
+512,512,Francés,F7 (Los Arcos-Logroño),558913,4711134,Mojón
+513,513,Francés,F7 (Los Arcos-Logroño),558613,4710771,Mojón
+514,514,Francés,F7 (Los Arcos-Logroño),558164,4710587,Señal Cruce Carretera
+515,515,Francés,F7 (Los Arcos-Logroño),558552,4710717,Mojón
+516,516,Francés,F7 (Los Arcos-Logroño),558223,4710622,Mojón
+517,517,Francés,F7 (Los Arcos-Logroño),558142,4710588,Mojón
+518,518,Francés,F7 (Los Arcos-Logroño),558109,4710588,Señal Cruce Carretera
+519,519,Francés,F7 (Los Arcos-Logroño),557850,4710416,Mojón
+520,520,Francés,F7 (Los Arcos-Logroño),557792,4710389,Mojón
+521,521,Francés,F7 (Los Arcos-Logroño),557715,4710412,Señal Cruce Carretera
+522,522,Francés,F7 (Los Arcos-Logroño),557571,4710345,Flecha Direccional
+523,523,Francés,F7 (Los Arcos-Logroño),557524,4710372,Señal Cruce Carretera
+524,524,Francés,F7 (Los Arcos-Logroño),557508,4710394,Mojón
+525,525,Francés,F7 (Los Arcos-Logroño),557118,4710298,Señal Cruce Carretera
+526,526,Francés,F7 (Los Arcos-Logroño),557076,4710214,Mojón
+527,527,Francés,F7 (Los Arcos-Logroño),557062,4710214,Mojón
+528,528,Francés,F7 (Los Arcos-Logroño),557031,4710214,Señal Cruce Carretera
+529,529,Francés,F7 (Los Arcos-Logroño),556848,4710278,Mojón
+530,530,Francés,F7 (Los Arcos-Logroño),556564,4710123,Mojón
+531,531,Francés,F7 (Los Arcos-Logroño),556540,4710074,Mojón
+532,532,Francés,F7 (Los Arcos-Logroño),556452,4710138,Mojón
+533,533,Francés,F7 (Los Arcos-Logroño),556141,4709757,Mojón
+534,534,Francés,F7 (Los Arcos-Logroño),556044,4709648,Mojón
+535,535,Francés,F7 (Los Arcos-Logroño),555969,4709505,Mojón
+536,536,Francés,F7 (Los Arcos-Logroño),555765,4709277,Mojón
+537,537,Francés,F7 (Los Arcos-Logroño),555696,4708957,Mojón
+538,538,Francés,F7 (Los Arcos-Logroño),555588,4708793,Mojón
+539,539,Francés,F7 (Los Arcos-Logroño),555434,4708635,Mojón
+540,540,Francés,F7 (Los Arcos-Logroño),555464,4708641,Flecha Direccional
+541,541,Francés,F7 (Los Arcos-Logroño),555375,4708620,Señal Cruce Carretera
+542,542,Francés,F7 (Los Arcos-Logroño),555312,4708621,Mojón
+543,543,Francés,F7 (Los Arcos-Logroño),555300,4708617,Señal Cruce Carretera
+544,544,Francés,F7 (Los Arcos-Logroño),555067,4708498,Señal Cruce Carretera
+545,545,Francés,F7 (Los Arcos-Logroño),554781,4708389,Mojón
+546,546,Francés,F7 (Los Arcos-Logroño),554740,4708368,Señal Cruce Carretera
+547,547,Francés,F7 (Los Arcos-Logroño),554562,4708253,Mojón
+548,548,Francés,F7 (Los Arcos-Logroño),554406,4708163,Señal Cruce Carretera
+549,549,Francés,F7 (Los Arcos-Logroño),553506,4707741,Mojón
+550,550,Francés,F7 (Los Arcos-Logroño),553473,4707738,Mojón
+551,551,Francés,F7 (Los Arcos-Logroño),553463,4707722,Señal Cruce Carretera
+552,552,Francés,F7 (Los Arcos-Logroño),553378,4707674,Mojón
+553,553,Francés,F7 (Los Arcos-Logroño),553072,4707606,Mojón
+554,554,Francés,F7 (Los Arcos-Logroño),552989,4707598,Mojón
+555,555,Francés,F7 (Los Arcos-Logroño),552925,4707555,Mojón
+556,556,Francés,F7 (Los Arcos-Logroño),552749,4707500,Mojón
+557,557,Francés,F7 (Los Arcos-Logroño),552654,4707493,Mojón
+558,558,Francés,F7 (Los Arcos-Logroño),552423,4707446,Señal Cruce Carretera
+559,559,Francés,F7 (Los Arcos-Logroño),552280,4707421,Mojón
+560,560,Francés,F7 (Los Arcos-Logroño),552256,4707421,Señal Cruce Carretera
+561,561,Francés,F7 (Los Arcos-Logroño),551069,4706966,Señal Cruce Carretera
+562,562,Francés,F7 (Los Arcos-Logroño),551090,4706937,Mojón
+563,563,Francés,F7 (Los Arcos-Logroño),551089,4706900,Señal Cruce Carretera
+564,564,Francés,F7 (Los Arcos-Logroño),551053,4706799,Mojón
+565,565,Francés,F7 (Los Arcos-Logroño),550973,4706776,Mojón
+566,566,Francés,F7 (Los Arcos-Logroño),550903,4706741,Mojón
+567,567,Francés,F7 (Los Arcos-Logroño),550734,4706486,Mojón
+568,568,Francés,F7 (Los Arcos-Logroño),550673,4706273,Mojón
+569,569,Francés,F7 (Los Arcos-Logroño),550329,4705434,Mojón
+570,570,Francés,F7 (Los Arcos-Logroño),550347,4705324,Mojón
+571,571,Francés,F7 (Los Arcos-Logroño),550336,4705247,Flecha Direccional
+572,572,Francés,F7 (Los Arcos-Logroño),549253,4704985,Mojón
+573,573,Francés,F7 (Los Arcos-Logroño),549183,4705034,Mojón
+574,574,Francés,F7 (Los Arcos-Logroño),549027,4704969,Señal Cruce Carretera
+575,575,Francés,F7 (Los Arcos-Logroño),548239,4704674,Flecha Direccional
+576,576,Francés,F1 (Francia-Orreaga/Roncesvalles),638247,4772646,Panel informativo
+577,577,Francés,F3 (Zubiri-Pamplona/Iruña),622281,4754246,Panel informativo
+578,578,Aragonés,A2 (Sangüesa/Zangoza-Monreal),640692,4715564,Panel informativo
+579,579,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),609260,4739806,Panel informativo
+580,580,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),596709,4724919,Panel informativo
+581,581,Francés,F6 (Estella/Lizarra-Los Arcos),579355,4724153,Panel informativo
+582,582,Francés,F6 (Estella/Lizarra-Los Arcos),582741,4723693,Panel informativo
+583,583,Francés,F7 (Los Arcos-Logroño),566098,4713393,Panel informativo
+584,584,Francés,F7 (Los Arcos-Logroño),551073,4706953,Panel informativo
+585,585,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),582531,4723562,Flecha Direccional
+586,586,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),603011,4732448,Flecha Direccional
+587,587,Francés,F6 (Estella/Lizarra-Los Arcos),578670,4723198,Flecha Direccional
+588,588,Francés,F1 (Francia-Orreaga/Roncesvalles),639849,4774619,Señal Cruce Carretera
+589,589,Francés,F1 (Francia-Orreaga/Roncesvalles),637730,4770462,Señal Cruce Carretera
+590,590,Francés,F1 (Francia-Orreaga/Roncesvalles),637972,4769332,Señal Cruce Carretera
+591,591,Francés,F1 (Francia-Orreaga/Roncesvalles),636806,4767629,Señal Cruce Carretera
+592,592,Francés,F1 (Francia-Orreaga/Roncesvalles),637070,4763206,Señal Cruce Carretera
+593,593,Francés,F1 (Francia-Orreaga/Roncesvalles),636184,4761503,Señal Cruce Carretera
+594,594,Francés,F1 (Francia-Orreaga/Roncesvalles),631614,4760062,Señal Cruce Carretera
+595,595,Francés,F1 (Francia-Orreaga/Roncesvalles),628180,4758412,Señal Cruce Carretera
+596,596,Francés,F1 (Francia-Orreaga/Roncesvalles),624866,4755618,Señal Cruce Carretera
+597,597,Francés,F1 (Francia-Orreaga/Roncesvalles),616022,4745861,Señal Cruce Carretera
+598,598,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),596854,4725139,Señal Cruce Carretera
+599,599,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),596818,4724951,Señal Cruce Carretera
+600,600,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),582255,4723762,Señal Cruce Carretera
+601,601,Francés,F6 (Estella/Lizarra-Los Arcos),577772,4722271,Señal Cruce Carretera
+602,602,Francés,F6 (Estella/Lizarra-Los Arcos),577681,4722274,Señal Cruce Carretera
+603,603,Francés,F6 (Estella/Lizarra-Los Arcos),576116,4721511,Señal Cruce Carretera
+604,604,Francés,A2 (Sangüesa/Zangoza-Monreal),640642,4716420,Señal Cruce Carretera
+605,605,Francés,F7 (Los Arcos-Logroño),561122,4712752,Señal Cruce Carretera
+606,606,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),593652,4724862,Señal Cruce Carretera
+607,607,Francés,F1 (Francia-Orreaga/Roncesvalles),636625,4764733,Señal Cruce Carretera
+608,608,Francés,F3 (Zubiri-Pamplona/Iruña),621123,4752260,Señal Cruce Carretera
+609,609,Francés,F3 (Zubiri-Pamplona/Iruña),620511,4751777,Señal Cruce Carretera
+610,610,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),608665,4739043,Señal Cruce Carretera
+611,611,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),608610,4738952,Señal Cruce Carretera
+612,612,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),586260,4725007,Señal Cruce Carretera
+613,613,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),586072,4724857,Señal Cruce Carretera
+614,614,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),582136,4724017,Señal Cruce Carretera
+615,615,Francés,F6 (Estella/Lizarra-Los Arcos),572854,4718629,Señal Cruce Carretera
+616,616,Francés,F6 (Estella/Lizarra-Los Arcos),572805,4718555,Señal Cruce Carretera
+617,617,Francés,F6 (Estella/Lizarra-Los Arcos),571918,4717312,Señal Cruce Carretera
+618,618,Francés,F6 (Estella/Lizarra-Los Arcos),571871,4717193,Señal Cruce Carretera
+619,619,Aragonés,A3 (Monreal-Puente la Reina/Gares),600740,4725884,Señal Cruce Carretera
+620,620,Francés,F7 (Los Arcos-Logroño),548313,4704701,Señal Cruce Carretera
+621,621,Francés,F1 (Francia-Orreaga/Roncesvalles),639860,4774627,Otros
+622,622,Francés,F1 (Francia-Orreaga/Roncesvalles),637978,4769806,Mojón
+623,623,Francés,F1 (Francia-Orreaga/Roncesvalles),637879,4769181,Señal Cruce Carretera
+624,624,Francés,F1 (Francia-Orreaga/Roncesvalles),636137,4765852,Mojón
+625,625,Francés,F1 (Francia-Orreaga/Roncesvalles),636277,4761677,Flecha Direccional
+626,626,Francés,F1 (Francia-Orreaga/Roncesvalles),631629,4760061,Flecha Direccional
+627,627,Francés,F2 (Orreaga/Roncesvalles-Zubiri),623408,4755380,Mojón
+628,628,Francés,F3 (Zubiri-Pamplona/Iruña),621576,4752839,Mojón
+629,629,Francés,F3 (Zubiri-Pamplona/Iruña),621147,4752195,Señal Cruce Carretera
+630,630,Francés,F3 (Zubiri-Pamplona/Iruña),619253,4751030,Mojón
+631,631,Francés,F3 (Zubiri-Pamplona/Iruña),616223,4746059,Mojón
+632,632,Francés,F3 (Zubiri-Pamplona/Iruña),614155,4743732,Flecha Direccional
+633,633,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),606870,4736569,Señal Cruce Carretera
+634,634,Francés,F4 (Pamplona/Iruña-Puente la Reina/Gares),604190,4733159,Mojón
+635,635,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),596595,4724853,Mojón
+636,636,Francés,F5 (Puente la Reina/Gares-Estella/Lizarra),592715,4724921,Flecha Direccional
+637,637,Zaraputz,F6 (Estella/Lizarra-Los Arcos),578502,4721928,Mojón
+638,638,Aragonés,A3 (Monreal-Puente la Reina/Gares),617368,4730055,Mojón
+639,639,Aragonés,A3 (Monreal-Puente la Reina/Gares),615830,4729977,Mojón
+640,640,Aragonés,A3 (Monreal-Puente la Reina/Gares),607446,4725024,Mojón
+641,641,Aragonés,A3 (Monreal-Puente la Reina/Gares),601705,4725338,Mojón
+642,642,Aragonés,A3 (Monreal-Puente la Reina/Gares),601531,4725416,Mojón
+643,643,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641358,4767836,Poste de Seguridad
+644,644,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641378,4767808,Poste de Seguridad
+645,645,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641394,4767776,Poste de Seguridad
+646,646,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641408,4767738,Poste de Seguridad
+647,647,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641429,4767705,Poste de Seguridad
+648,648,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641436,4767670,Poste de Seguridad
+649,649,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641436,4767627,Poste de Seguridad
+650,650,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641430,4767586,Poste de Seguridad
+651,651,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641429,4767549,Poste de Seguridad
+652,652,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641427,4767507,Poste de Seguridad
+653,653,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641402,4767479,Poste de Seguridad
+654,654,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641369,4767459,Poste de Seguridad
+655,655,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641332,4767449,Poste de Seguridad
+656,656,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641297,4767437,Poste de Seguridad
+657,657,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641264,4767421,Poste de Seguridad
+658,658,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641228,4767399,Poste de Seguridad
+659,659,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641198,4767377,Poste de Seguridad
+660,660,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641120,4767303,Poste de Seguridad
+661,661,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),641027,4767282,Poste de Seguridad
+662,662,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640930,4767246,Poste de Seguridad
+663,663,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640833,4767222,Poste de Seguridad
+664,664,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640727,4767200,Poste de Seguridad
+665,665,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640646,4767165,Poste de Seguridad
+666,666,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640551,4767136,Poste de Seguridad
+667,667,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640456,4767108,Poste de Seguridad
+668,668,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640279,4767000,Poste de Seguridad
+669,669,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640366,4767044,Poste de Seguridad
+670,670,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640188,4766964,Poste de Seguridad
+671,671,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640111,4766920,Poste de Seguridad
+672,672,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640042,4766849,Poste de Seguridad
+673,673,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640030,4766813,Poste de Seguridad
+674,674,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),640015,4766777,Poste de Seguridad
+675,675,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639982,4766749,Poste de Seguridad
+676,676,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639958,4766735,Poste de Seguridad
+677,677,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639863,4766695,Poste de Seguridad
+678,678,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639751,4766669,Poste de Seguridad
+679,679,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639654,4766642,Poste de Seguridad
+680,680,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639628,4766635,Poste de Seguridad
+681,681,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639607,4766629,Poste de Seguridad
+682,682,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639600,4766622,Poste de Seguridad
+683,683,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639595,4766625,Poste de Seguridad
+684,684,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639592,4766615,Poste de Seguridad
+685,685,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639576,4766615,Poste de Seguridad
+686,686,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639584,4766610,Poste de Seguridad
+687,687,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639558,4766608,Poste de Seguridad
+688,688,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639570,4766607,Poste de Seguridad
+689,689,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639537,4766596,Poste de Seguridad
+690,690,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639515,4766585,Poste de Seguridad
+691,691,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639490,4766570,Poste de Seguridad
+692,692,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639493,4766563,Flecha Direccional
+693,693,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639476,4766552,Poste de Seguridad
+694,694,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639440,4766540,Poste de Seguridad
+695,695,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639398,4766521,Poste de Seguridad
+696,696,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639358,4766496,Poste de Seguridad
+697,697,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639326,4766475,Poste de Seguridad
+698,698,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639287,4766452,Poste de Seguridad
+699,699,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639263,4766415,Poste de Seguridad
+700,700,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639255,4766370,Poste de Seguridad
+701,701,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639280,4766347,Poste de Seguridad
+702,702,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639321,4766315,Poste de Seguridad
+703,703,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639301,4766287,Poste de Seguridad
+704,704,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639264,4766260,Poste de Seguridad
+705,705,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639256,4766219,Poste de Seguridad
+706,706,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639265,4766173,Poste de Seguridad
+707,707,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639273,4766131,Poste de Seguridad
+708,708,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639268,4766092,Poste de Seguridad
+709,709,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639247,4766060,Poste de Seguridad
+710,710,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639220,4766020,Poste de Seguridad
+711,711,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639192,4765988,Poste de Seguridad
+712,712,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639126,4765902,Poste de Seguridad
+713,713,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),639039,4765852,Poste de Seguridad
+714,714,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638958,4765796,Poste de Seguridad
+715,715,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638914,4765702,Poste de Seguridad
+716,716,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638932,4765603,Poste de Seguridad
+717,717,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638967,4765502,Poste de Seguridad
+718,718,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638978,4765464,Poste de Seguridad
+719,719,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638989,4765424,Poste de Seguridad
+720,720,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638993,4765403,Señal Cruce Carretera
+721,721,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638991,4765375,Poste de Seguridad
+722,722,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638982,4765350,Poste de Seguridad
+723,723,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638964,4765339,Poste de Seguridad
+724,724,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638944,4765318,Poste de Seguridad
+725,725,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638929,4765313,Mojón
+726,726,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638923,4765302,Poste de Seguridad
+727,727,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638906,4765281,Poste de Seguridad
+728,728,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638893,4765268,Poste de Seguridad
+729,729,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638891,4765266,Mojón
+730,730,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638875,4765245,Poste de Seguridad
+731,731,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638865,4765228,Poste de Seguridad
+732,732,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638868,4765229,Señal Cruce Carretera
+733,733,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638854,4765215,Poste de Seguridad
+734,734,Lepoeder,F1 (Francia-Orreaga/Roncesvalles),638456,4764408,Mojón
+735,735,Francés,F1 (Francia-Orreaga/Roncesvalles),630587,4759557,Señal Cruce Carretera
