@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Visualizació del Convex Hull - Camino de Santiago</title>
+    <title>Visualització Convex Hull - Coordenades Camino de Santiago</title>
+
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -11,18 +12,33 @@
             padding: 0;
         }
         #visualization-container {
-            width: 100%;
-            height: 600px; 
+            width: 80%; 
+            margin: 0 auto; 
+            padding-top: 20px; 
+        }
+        h1 {
+            text-align: center; 
+            margin-top: 35px; 
+        
+        }
+        h2 {
+            text-align: center; /* Centra el subtítulo */
+            margin-top: 10px; /* Espacio superior */
+        }
+        img {
+            display: block; 
+            width: 100%; 
+            height: auto; 
+            margin: 0 auto; 
         }
     </style>
 </head>
 <body>
-    <h1>Visualización de Convex Hull - Camino de Santiago</h1>
+    <h1>Visualización del Convex Hull - Camino de Santiago</h1>
+    <h2>URL dataset: https://datos.gob.es/es/catalogo/a15002917-senalizacion-camino-de-santiago</h2>
+
     <div id="visualization-container">
         <img src="convex_hull.png" alt="Convex Hull - Camino de Santiago">
     </div>
-
-
 </body>
 </html>
-

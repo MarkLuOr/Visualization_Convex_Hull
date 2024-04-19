@@ -32,5 +32,5 @@ ax.set_ylabel('COORD_Y')
 ax.set_title('Convex Hull - Camino de Santiago')
 ax.legend()
 
-# Es mostra la visualització
-plt.show()
+# Es guarda la visualització com imatge per mostrar-la
+plt.savefig('convex_hull.png')
